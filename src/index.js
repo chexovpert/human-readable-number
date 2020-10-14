@@ -9,39 +9,39 @@ module.exports = function toReadable (number) {
         arr.splice(0, 1);
         break;
       case "1":
-        mem.push("one hungred");
+        mem.push("one hundred");
         arr.splice(0, 1);
         break;
       case "2":
-        mem.push("two hungred");
+        mem.push("two hundred");
         arr.splice(0, 1);
         break;
       case "3":
-        mem.push("three hungred");
+        mem.push("three hundred");
         arr.splice(0, 1);
         break;
       case "4":
-        mem.push("four hungred");
+        mem.push("four hundred");
         arr.splice(0, 1);
         break;
       case "5":
-        mem.push("five hungred");
+        mem.push("five hundred");
         arr.splice(0, 1);
         break;
       case "6":
-        mem.push("six hungred");
+        mem.push("six hundred");
         arr.splice(0, 1);
         break;
       case "7":
-        mem.push("seven hungred");
+        mem.push("seven hundred");
         arr.splice(0, 1);
         break;
       case "8":
-        mem.push("eight hungred");
+        mem.push("eight hundred");
         arr.splice(0, 1);
         break;
       case "9":
-        mem.push("nine hungred");
+        mem.push("nine hundred");
         arr.splice(0, 1);
         break;
       default:
