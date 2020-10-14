@@ -106,7 +106,7 @@ module.exports = function toReadable (number) {
           arr.splice(0, 1);
           break;
         case "4":
-          mem.push("fourty");
+          mem.push("forty");
           arr.splice(0, 1);
           break;
         case "5":
